@@ -19,4 +19,12 @@ int main()
     cout << "nilai n terakhir = " << n << endl;
     cout << endl;
 
+    cout << "perulangan for pencacah turun " << endl;
+    // perulangan dengan for
+    for (n = 5; n > 0; n--)
+    {
+        cout << "nilai n = " << n << " selamat datang " << endl;
+    }
+    cout << nilai n terakhir = << n;
+    cout << endl;
 } 
